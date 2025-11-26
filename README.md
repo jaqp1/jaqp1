@@ -1,7 +1,7 @@
 
 
 # 👋 About Me:
-📝 I’m currently learning React, TypeScript, Java<br>
+📝 I’m currently learning React, ReactNative and TypeScript<br>
 ☕️ Studying Computer Science at the Cracow University of Technology<br>
 
 
