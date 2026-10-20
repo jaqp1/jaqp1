@@ -18,12 +18,6 @@ Studying Computer Science at the Cracow University of Technology<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaqp1&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaqp1&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaqp1&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
-### Quote Of The Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaqp1&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
